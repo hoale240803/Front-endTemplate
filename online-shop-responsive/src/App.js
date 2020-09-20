@@ -1,7 +1,8 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
-//fuck 1
+
+//t sua master roi nha
 function App() {
   return (
     <div className="App">
