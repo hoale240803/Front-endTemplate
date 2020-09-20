@@ -3,6 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 
 //t sua master roi nha
+// dm t duong ne, sua dong nay ne
 function App() {
   return (
     <div className="App">
