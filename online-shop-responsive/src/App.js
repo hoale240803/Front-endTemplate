@@ -4,8 +4,7 @@ import "./App.css";
 
 //t sua master roi nha
 
-//t sua master roi nha 1
-// t hoa l sua cai l nay
+// dm t duong ne, sua dong nay ne
 function App() {
   return (
     <div className="App">
